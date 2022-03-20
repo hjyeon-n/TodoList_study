@@ -5,6 +5,8 @@
 .metadata
 bin/
 tmp/
+*.lock
+*.bin
 *.tmp
 *.bak
 *.swp

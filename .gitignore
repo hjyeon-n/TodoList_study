@@ -9,6 +9,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.lock
+*.bin
 local.properties
 .settings/
 .loadpath
