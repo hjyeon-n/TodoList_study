@@ -11,6 +11,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.gradle
+*.properties
 local.properties
 .settings/
 .loadpath

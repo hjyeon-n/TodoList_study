@@ -15,7 +15,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+*.properties
+*.gradle
+gradlew
+gradlew.bat
 target/
 
 # External tool builders
